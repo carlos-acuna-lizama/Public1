@@ -4,14 +4,14 @@
     <name>Middle and Late Quaternary</name>
     <Style id="line-000000-2000-normal">
       <LineStyle>
-        <color>ff000000</color>
-        <width>2</width>
+        <color>E26D2BDD</color>
+        <width>8</width>
       </LineStyle>
     </Style>
     <Style id="line-000000-2000-highlight">
       <LineStyle>
-        <color>ff000000</color>
-        <width>3</width>
+        <color>E26D2BDD</color>
+        <width>8</width>
       </LineStyle>
     </Style>
     <StyleMap id="line-000000-2000">
